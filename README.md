@@ -1,4 +1,6 @@
-echo "# HarmonyOS" >> README.md
+# HarmonyOS
+
+
 git init
 git add README.md
 git commit -m "first commit"
